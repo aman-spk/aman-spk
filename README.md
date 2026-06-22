@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aman-spk
-- 👀 I’m interested in Ethical Hacking, Machine Learning, AI,...
+- 👀 I’m interested in Machine Learning, AI,...
 - 🌱 I’m currently studying B.Tech in AI.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 To reach me: amansapkota55@gmail.com
